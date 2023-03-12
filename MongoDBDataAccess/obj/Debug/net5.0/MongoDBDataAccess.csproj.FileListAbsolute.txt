@@ -1,0 +1,12 @@
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\bin\Debug\net5.0\MongoDBDataAccess.deps.json
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\bin\Debug\net5.0\MongoDBDataAccess.dll
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\bin\Debug\net5.0\ref\MongoDBDataAccess.dll
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\bin\Debug\net5.0\MongoDBDataAccess.pdb
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\obj\Debug\net5.0\MongoDBDataAccess.csproj.AssemblyReference.cache
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\obj\Debug\net5.0\MongoDBDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\obj\Debug\net5.0\MongoDBDataAccess.AssemblyInfoInputs.cache
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\obj\Debug\net5.0\MongoDBDataAccess.AssemblyInfo.cs
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\obj\Debug\net5.0\MongoDBDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\obj\Debug\net5.0\MongoDBDataAccess.dll
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\obj\Debug\net5.0\ref\MongoDBDataAccess.dll
+C:\Users\yogini.thakare\Desktop\My Desktop\Personal\Study\Algo\AlgoShop\MongoDBDataAccess\obj\Debug\net5.0\MongoDBDataAccess.pdb

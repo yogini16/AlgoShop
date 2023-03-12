@@ -1,0 +1,23 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+option csharp_namespace = "StocksService.Protos";
+
+package stocks;
+ 
+
+service Stock {
+    rpc GetStock (ProductRequest) returns (StockResponse) {}
+    rpc IncreaseStock (ProductRequest) returns (StockResponse) {}
+    rpc DecreaseStock (ProductRequest) returns (StockResponse) {}
+}
+
+message ProductRequest {
+    int32 productId = 1;
+    int32 quantity = 2;
+}
+
+message StockResponse {
+    bool success = 1;
+    string message = 2;
+}
+
